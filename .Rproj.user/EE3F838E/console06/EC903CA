@@ -1,0 +1,8 @@
+]0;~/Desktop/R-intro[?1034hDN0a22f130:R-intro vollrath$ [KDN0a22f130:R-intro vollrath$ mv feline-data.csv data
+[KDN0a22f526:R-intro vollrath$ git status
+fatal: Not a git repository (or any of the parent directories): .git
+]0;~/Desktop/R-introDN0a22f526:R-intro vollrath$ git add -A
+fatal: Not a git repository (or any of the parent directories): .git
+]0;~/Desktop/R-introDN0a22f526:R-intro vollrath$ git init
+Initialized empty Git repository in /Users/vollrath/Desktop/R-intro/.git/
+]0;~/Desktop/R-introDN0a22f526:R-intro vollrath$ git add _[K-A
